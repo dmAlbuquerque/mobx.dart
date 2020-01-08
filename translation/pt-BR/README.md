@@ -40,7 +40,7 @@ muda, todas as _reactions_ são chamadas. O interessante é que as _reactions_ p
 > MobX tem sido uma uma biblioteca muito eficiente para o javascript
 > esse porte visa trazer essa mesma produtividade para os apps baseados em Dart
 
-### Patriocinadores
+### Patrocinadores
 
 Somos muito gratos aos nossos patrocinadores por nos fazer parte do programa _Open Source Software (OSS)_.
 
